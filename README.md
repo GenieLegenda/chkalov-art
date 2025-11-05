@@ -1,2 +1,2 @@
 # chkalov-art
-
+touch .gitignore
